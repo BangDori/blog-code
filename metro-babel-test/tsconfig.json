@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext"
+  },
+  "include": ["src"]
+}
